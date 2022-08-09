@@ -1,3 +1,6 @@
+Step-1 :- impoert node modues first after creating an app.then d the following steps.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
