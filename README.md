@@ -1,4 +1,4 @@
-Step-1 :- impoert node modues first after creating an app.then d the following steps.
+Step-1 :- import node modues first after creating an app.then d the following steps.
 
 
 # Getting Started with Create React App
